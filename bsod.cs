@@ -5,7 +5,7 @@ using OpenTabletDriver.Plugin.Tablet;
 
 namespace bsod
 {
-    [PluginName("Bsod Binding"), SupportedPlatform(PluginPlatform.Windows)]
+    [PluginName("BSoD"), SupportedPlatform(PluginPlatform.Windows)]
     public unsafe class Bsod : IStateBinding
     {
         [DllImport("ntdll.dll")]
