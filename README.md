@@ -10,3 +10,6 @@ This plugin is designed for OpenTabletDriver with the purpose to crash windowns
 - Install the plugin.
 - Go into the "Advanced Binding Editor" by clicking the 3 dots to the right of the binding that you want to use and select `BSoD`. Then save your settings and off you go!
 - Have fun :)
+
+# TODO
+Add more ways to crash windows for fun
